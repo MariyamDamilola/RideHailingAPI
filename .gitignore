@@ -1,0 +1,10 @@
+﻿# Configuration / secrets
+appsettings.json
+appsettings.*.json
+
+# Rider
+.idea/
+
+# Build files
+bin/
+obj/
